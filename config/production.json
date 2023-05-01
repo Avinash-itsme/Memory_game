@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://bhaskar:12345@gamecluster.ppaotbf.mongodb.net/GAME",
+  "jwtSecret": "secret"
+}

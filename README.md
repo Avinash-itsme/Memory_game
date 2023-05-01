@@ -1,10 +1,12 @@
 
-## BRAIN BLITZ
-The web application is a memory board game, where users can register an account, select a desired difficulty level and card theme, and enjoy the challenge of matching pairs of cards. Additionally, users can track their progress as their score is updated at the end of each game.
-## Introduction
-The Brain Blitz project is a simple game that tests and improves the player's memory skills. It involves flipping cards on a game board to find matching pairs of images. The project aims to provide an engaging and entertaining experience for players of all ages while helping them develop their cognitive abilities.
+## Memory Game
+The web application is a memory based board game, where users can register an account, select a desired difficulty level and card theme, and enjoy the challenge of matching pairs of cards. Additionally, users can track their progress as their score is updated at the end of each game.
+## Intro
+The Memory Game project is a simple game that tests and improves the player's memory skills. It involves flipping cards on a game board to find matching pairs of images. The project aims to provide an engaging and entertaining experience for players of all ages while helping them develop their cognitive abilities.
+
 ## Soft Skills to be Assessed:
 The Memory Game project can help assess several soft skills such as memory, concentration, attention to detail, problem-solving, and decision-making. These skills are essential for everyday life, and the game can help players improve them in a fun and engaging way.
+
 ## All the possible ways to solve the puzzle
 The game board for the Memory Game project contains an even number of cards with identical images. To play the game, the player has to flip over two cards to reveal their images. If the images match, the player scores a point and the cards remain face up. If the images do not match, the cards are flipped back face down, and the player has to try again.
 
@@ -39,9 +41,7 @@ User analytics (eg - time taken by each user for every step, solution accuracy, 
 
 ## Deployment
 
-The project is Deployed using render .
-
-The live Website => https://brainblitz.onrender.com
+..........
 
 ## Tech Used
 

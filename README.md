@@ -39,24 +39,3 @@ It's important to note that these steps assume that you have Node.js and npm (No
 ## Additional Features
 User analytics (eg - time taken by each user for every step, solution accuracy, etc.) depending on your puzzle is stored and can be seen by the admin in the database
 
-## Deployment
-
-..........
-
-## Tech Used
-
-HTML, CSS, MaterializeCSS, JS, React for front end
-
-MongoDB, Express, Node, Mongoose for backend
-
-Context API for state management
-
-Nodemon and Concurrently for development
-
-JWToken and Bcrypt for hashing passwords
-
-Robohash for card images
-
-Axios for image API requests
-
-Render for deployment
